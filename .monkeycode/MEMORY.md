@@ -30,3 +30,9 @@ Agent 在任务执行过程中发现的条目应遵循以下格式：
 - 这有助于避免冗余条目，保持记忆文件整洁
 
 ## 条目
+
+[Skill 文件保存位置偏好]
+- Date: 2026-04-23
+- Context: 用户要求将 skill 保存到 skills 目录下
+- Instructions:
+  - 新增 skill 文件时，默认保存在 `skills/<skill-name>/SKILL.md`
